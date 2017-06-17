@@ -1,0 +1,3 @@
+[Variables]
+WIDTH=275
+HEIGHT=(8 + (60*#GPUMEASURE#) + 220)
