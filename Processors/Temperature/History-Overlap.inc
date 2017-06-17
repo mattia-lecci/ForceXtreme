@@ -27,3 +27,4 @@ LineColor=#colour11#
 AntiAlias=#AA#
 AutoScale=0
 Scale=1
+SolidColor=#colour18#

@@ -79,7 +79,7 @@ font5_colour=255, 38, 0, 220
 font6_colour=0, 131, 255, 196
 
 ;----------------------------------------------------
-; Anti-alias (Enable = 0 / Disable = 0)
+; Anti-alias (Enable = 1 / Disable = 0)
 ;----------------------------------------------------
 
 AA=0
@@ -138,3 +138,6 @@ colour16=255, 255, 255, 100
 
 ; Histogram (Red)
 colour17=255, 38, 0, 100
+
+; Graph background
+colour18=96, 96, 96, 50
