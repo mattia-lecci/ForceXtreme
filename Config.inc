@@ -17,8 +17,8 @@ TCPVersion=TCPv4
 ; Set maximum upload / download speed in bytes
 ;------------------------------------------------------------------
 
-SpeedD=15000000
-SpeedU=5000000
+SpeedD=13000000
+SpeedU=800000
 
 ;------------------------------------------------------------------
 ; Drive letters
@@ -89,13 +89,13 @@ AA=0
 ;----------------------------------------------------
 
 ; Background
-colour1=0, 0, 0, 128
+colour1=0, 0, 0, 200
 
 ; Sidebar
-colour2=0, 0, 0, 145
+colour2=0, 0, 0, 255
 
 ; Sidebar Separator
-colour3=0, 187, 255, 196
+colour3=0, 80, 187, 196
 
 ; Highlight
 colour4=96, 96, 96, 96
@@ -104,7 +104,7 @@ colour4=96, 96, 96, 96
 colour5=0, 0, 0, 96
 
 ; Separator
-colour6=0, 187, 255, 196
+colour6=0, 80, 187, 196
 
 ; Bar Background
 colour7=100, 100, 100, 50
@@ -116,7 +116,7 @@ colour8=196, 196, 196, 196
 colour9=93, 255, 0, 196
 
 ; Line / Bar (Blue)
-colour10=0, 131, 255, 196
+colour10=0, 160, 230, 196
 
 ; Line / Bar (Orange)
 colour11=255, 157, 0, 220
