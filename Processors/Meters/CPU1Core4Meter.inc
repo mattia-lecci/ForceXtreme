@@ -44,7 +44,7 @@ X=0r
 Y=0r
 W=160
 H=7
-BarColor=FF00FF
+BarColor=#colour10#
 BarOrientation=HORIZONTAL
 AntiAlias=#AA#
 
@@ -94,7 +94,7 @@ X=0r
 Y=0r
 W=160
 H=7
-BarColor=00FFFF
+BarColor=#colour10#
 BarOrientation=HORIZONTAL
 AntiAlias=#AA#
 
@@ -144,7 +144,7 @@ X=0r
 Y=0r
 W=160
 H=7
-BarColor=FFFF00
+BarColor=#colour10#
 BarOrientation=HORIZONTAL
 AntiAlias=#AA#
 
@@ -194,6 +194,6 @@ X=0r
 Y=0r
 W=160
 H=7
-BarColor=00FF00
+BarColor=#colour10#
 BarOrientation=HORIZONTAL
 AntiAlias=#AA#
