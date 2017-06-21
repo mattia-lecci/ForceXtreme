@@ -15,7 +15,7 @@ UpdateDivider=3600
 ; Graph
 ;============================================================================
 
-[CPU1TempLine]
+[TempLine]
 Meter=Line
 MeasureName=CPUAverageTemp
 X=30

@@ -141,3 +141,12 @@ colour17=255, 38, 0, 100
 
 ; Graph background
 colour18=96, 96, 96, 50
+
+; Histogram (Orange)
+colour19=255, 185, 65, 100
+
+; line / Bar (Yellow)
+colour20=250, 230, 0, 220
+
+; Histogram (Yellow)
+colour21=250, 255, 40, 100
